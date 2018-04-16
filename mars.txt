@@ -4,3 +4,4 @@ sky is clear today
 This sentence will cause conflict
 I added this line, but what is it?
 the changes have been done
+this is the final line
